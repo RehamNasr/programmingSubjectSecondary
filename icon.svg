@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Semicolon Academy logo">
+  <rect width="100%" height="100%" fill="transparent"/>
+
+<text x="0" y="200" font-family="Exo 2" font-weight="700" font-size="150" fill="#2D2A32" letter-spacing="6">
+  SEMICOLON
+</text>
+
+<text x="980" y="200" font-family="Exo 2" font-weight="900" font-size="200" fill="#F5CB5C" dy="20">
+  ;
+</text>
+
+<text x="0" y="400" font-family="Exo 2" font-weight="800" font-size="198" fill="#D72638" letter-spacing="6">
+  ACADEMY
+</text>
+
+
+  <rect x="4" y="465" width="700" height="20" fill="#2D2A32"/>
+
+  <title>Semicolon Academy — logo</title>
+</svg>
